@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @sardornext
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 sardornext/sardornext is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +16,7 @@ I'm a budding developer eager to create visually appealing and interactive web e
 I'm focusing on honing my skills in front-end development, gradually expanding my knowledge and proficiency.
 
 🌱 Currently upgrading my knowledge and practicing HTML, CSS, and JavaScript and in next month I will start Vue.js.
-💡 Interested in Vue.js and Next.js
+💡 Interested in Vue.js and Next.js and React
 🎨 Enthusiastic about crafting engaging and responsive web designs.
 
 ## Repository Contentes 
